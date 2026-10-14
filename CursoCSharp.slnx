@@ -1,0 +1,4 @@
+<Solution>
+  <Project Path="CursoCSharp/CursoCSharp.csproj" />
+  <Project Path="Laboratorio2_MiPrimeraApp/Laboratorio2_MiPrimeraApp.csproj" />
+</Solution>
