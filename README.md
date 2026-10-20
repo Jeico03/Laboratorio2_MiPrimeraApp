@@ -27,8 +27,14 @@ Crear una aplicación de consola en C# que muestre de forma estructurada y perso
  
 ¡Hola! Qué gusto tenerte por aquí...
  
+<<<<<<< HEAD
   👤  Nombre:             [Nombre del Estudiante] 
   🎓  Carrera/Profesión:  Ingeniería de Software
   💡  Motivo de estudio:  [Motivo de estudio]
+=======
+  👤  Nombre:             [Nombre del Estudiante]
+  🎓  Carrera/Profesión:  Ingeniería de Software
+  💡  Motivo de estudio:  [Motivo de estudio del Estudiante]
+>>>>>>> 7778457 (Add project files.)
  
 ========================================================
