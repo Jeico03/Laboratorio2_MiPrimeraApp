@@ -1,4 +1,6 @@
 <Solution>
-  <Project Path="CursoCSharp/CursoCSharp.csproj" />
+  <Folder Name="/Solution Items/">
+    <File Path="README.md" />
+  </Folder>
   <Project Path="Laboratorio2_MiPrimeraApp/Laboratorio2_MiPrimeraApp.csproj" />
 </Solution>
